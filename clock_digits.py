@@ -41,9 +41,9 @@ digits = [
 	],
 	[ # six
 		x, o, x, x,
-		x, o, o, o,
+		x, o, o, x,
 		x, o, x, o,
-		x, o, o, o,
+		x, x, o, x,
 	],
 	[ # seven
 		x, o, o, o,
@@ -58,9 +58,9 @@ digits = [
 		x, x, o, x,
 	],
 	[ # nine
-		x, o, o, o,
+		x, x, o, x,
 		x, o, x, o,
-		x, o, o, o,
+		x, x, o, o,
 		x, x, x, o,
 	],
 ]
