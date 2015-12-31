@@ -11,3 +11,5 @@ Displaying 4 digits on an 8×8 matrix is a bit of a challenge. Each digit only h
 Have a look in clock_digits.py to see what I've come up with.
 
 I initially started with plain white digits, but this proved to be too bright. After experimenting a bit with (random) colors, I settled for red. This has the advantage of looking good when placing a piece of red acrylic plastic over the display.
+
+![alt tag](https://raw.githubusercontent.com/elmer-t/sense-hat-clock/master/img/IMG_5225.JPG)
